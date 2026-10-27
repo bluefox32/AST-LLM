@@ -41,8 +41,8 @@
 pip install numpy
 
 # リポジトリをクローン
-git clone https://github.com/yourusername/ast-llm-unified.git
-cd ast-llm-unified
+git clone https://github.com/bluefox32/AST-LLM.git
+cd AST-LLM
 ```
 
 ### 基本的な使い方
